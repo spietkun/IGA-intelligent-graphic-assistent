@@ -26,10 +26,9 @@
 ### Intelligent mode
 
 ![Screenshot](docs/images/screen2.png)
-Short questions like:
 ![Screenshot](docs/images/screen3.png)
 ![Screenshot](docs/images/screen4.png)
-
+and more..
 ### Base mode
 
 ![Screenshot](docs/images/screen5.png)
