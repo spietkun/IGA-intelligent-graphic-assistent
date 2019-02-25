@@ -61,8 +61,10 @@ Wallpapers stored in **IGA's** base are connected with specified key values, whi
  
 ### Files
 Files that are required for **IGA** to work well are:
- - file with key list (for example keys.txt specified in IGA.sh)
+ - file with key list (for example **keys.txt** specified in IGA.sh)
 - file with relation between wallpapers and keys and directory with wallpapers can be created by **IGA**
+**header** contains short description and license
+**IGAman** - manpage for IGA
 
 ### Manpage 
 
