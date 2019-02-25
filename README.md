@@ -3,7 +3,7 @@
 ## Sections
 
  - [Visuals](#visuals)
-   - [Random wallpaper](#random-wallpaper )
+   	 - [Random wallpaper](#random-wallpaper )
 	 - [Intelligent mode](#intelligent-mode)
 	 - [Base mode](#Base-mode)
  - [Description](#description)
