@@ -65,6 +65,7 @@ Files that are required for **IGA** to work well are:
 - file with relation between wallpapers and keys and directory with wallpapers can be created by **IGA**
 **header** contains short description and license
 **IGAman** - manpage for IGA
+All of the files need to be in the directory where the IGA.sh is located. 
 
 ### Manpage 
 
