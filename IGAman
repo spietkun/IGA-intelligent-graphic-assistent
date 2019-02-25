@@ -1,0 +1,32 @@
+.TH IGA 8 "28 May 2018" "version 1.0"
+.SH NAME
+IGA - your best friend to help You customize the wallpaper
+.SH SYNOPSIS
+.B [-h] [-v] [-q]
+.SH DESCRIPTION
+.B IGA
+is a programme that helps the user to choose (instead of him) the best wallpaper. In a very simple way, it maximally reduces the time of searching for the best screen image. It works in 2 modes: 
+.B setting totally random wallpaper 
+from the picture base and 
+.B matching an individual wallpaper 
+based on the replies made by the user to the questions. At the start there are basic wallpapers, but there is a possibility to add your own pictures. After doing this, the user chooses "key words" that are related to the uploaded photo.
+.SH OPTIONS
+.IP -h
+qucik help
+.IP -v
+current version
+.IP -q 
+license
+.SH BUGS
+After adding a photo to the base, there is a glib warning: 
+.I (zenity:2982): GLib-WARNING **: while getting flags for FD
+caused by using pipe to zenity. It doesn't affect the programme at all.
+.SH AUTHOR
+Szymon Pietkun
+.SH SEE ALSO
+Here you can find free wallpapers:
+https://pixabay.com/
+https://unsplash.com/
+https://www.pexels.com/royalty-free-images/
+
+
