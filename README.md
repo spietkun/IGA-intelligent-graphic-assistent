@@ -15,6 +15,7 @@
 	 - [Files](#files)
 	 - [Manpage](#manpage)
  - [Usage](#usage)
+ - [Plans](#plans)
  - [Additional](#additional)
  
 ## Visuals
@@ -65,6 +66,7 @@ Files that are required for **IGA** to work well are:
 - file with relation between wallpapers and keys and directory with wallpapers can be created by **IGA**
 **header** contains short description and license
 **IGAman** - manpage for IGA
+
 All of the files need to be in the directory where the IGA.sh is located. 
 
 ### Manpage 
@@ -74,6 +76,12 @@ There is a manpage made for IGA - **IGAman** with listed options.
 ## Usage
 
  - everyday use for a Linux user that wants to change the wallpaper fast and satisfactory
+ 
+## Plans
+
+Things to do in the future:
+
+ - export questions from the .sh file to the separate file
 
 ## Additional
 
