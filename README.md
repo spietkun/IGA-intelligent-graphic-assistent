@@ -3,7 +3,7 @@
 ## Sections
 
  - [Visuals](#visuals)
-   	 - [Random wallpaper](#random-wallpaper )
+   	 - [Overview](#overview )
 	 - [Intelligent mode](#intelligent-mode)
 	 - [Base mode](#Base-mode)
  - [Description](#description)
@@ -19,7 +19,7 @@
  
 ## Visuals
 
-### Random wallpaper 
+### Overview 
 
 ![Screenshot](docs/images/screen1.png)
 
